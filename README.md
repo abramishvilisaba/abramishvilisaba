@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saba Abramishvili</h1>
 <h3 align="center">An Enthusiastic web developer from Georgia</h3>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abramishvilisaba" alt="abramishvilisaba" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abramishvilisaba" alt="abramishvilisaba" /></a> </p>
 
-- 🔭 I’m currently working on [review protal](link)
 
 - 👨‍💻 All of my projects are available at [github.com/abramishvilisaba](github.com/abramishvilisaba)
 
-- 💬 Ask me about **React, express,**
 
 - 📫 How to reach me **abramishvilisaba@gmail.com**
 
